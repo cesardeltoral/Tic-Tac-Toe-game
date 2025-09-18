@@ -30,7 +30,7 @@ _(Place your screenshots inside the `public/` folder and name them `screenshot1.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/07-tic-tac-toe-starting-project.git
+git clone https://github.com/cesardeltoral/07-tic-tac-toe-starting-project.git
 cd 07-tic-tac-toe-starting-project
 
 2. Install dependencies
